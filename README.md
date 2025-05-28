@@ -1,4 +1,4 @@
-# TG-bot_denchik
+# TG-bot-for-team
 
 Телеграм-бот для управления вопросами и ответами с административной панелью.
 
@@ -20,8 +20,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/TG-bot_denchik.git
-cd TG-bot_denchik
+git clone https://github.com/your-username/TG-bot-for-team.git
+cd TG-bot-for-team
 ```
 
 2. Создайте виртуальное окружение и активируйте его:
@@ -61,7 +61,7 @@ python main.py
 ## Структура проекта
 
 ```
-TG-bot_denchik/
+TG-bot-for-team/
 ├── handlers/
 │   ├── admin.py
 │   └── user.py
@@ -83,7 +83,3 @@ TG-bot_denchik/
 - Не публикуйте токен бота и другие конфиденциальные данные
 - Храните `.env` файл локально и не коммитьте его в репозиторий
 - Регулярно обновляйте зависимости для исправления уязвимостей
-
-## Лицензия
-
-MIT License 
